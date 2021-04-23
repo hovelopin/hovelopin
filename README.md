@@ -1,5 +1,3 @@
-<!--Hits 라이브러리>
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
