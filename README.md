@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning FrontEnd Development
 - 📫 How to reach me: ...
 - 📝 Checkout my Resume ...
-- 🧑🏻‍💻 I'm studying [HERE]()
+- 🧑🏻‍💻 I'm studying [HERE](https://glass-beluga-2c4.notion.site/d8f4c176f8d74ac7a3e34f05428aa1ad)
 
 ```javascript
 const hovelopin = {
