@@ -2,7 +2,7 @@
 <!-- 인사
   ![header](https://capsule-render.vercel.app/api?type=waving&text=⭐️Welcome%20To%20HP✨Log⭐️&section=header&fontSize=50&color=auto&height=200)
 -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hovelopin&theme=dracula&hide_border=true)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hovelopin&theme=dracula&hide_border=true) -->
 
 <!-- 
 - 🔭 I’m currently working on ...
