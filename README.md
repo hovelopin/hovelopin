@@ -24,7 +24,11 @@ const hovelopin = {
 };
 ```
 -->
-<div>
+<!--<div>
 <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hovelopin&show_icons=true&theme=tokyonight"> -->
-<img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=hovelopin&theme=tokyonight&date_format=%5BY%20%5DM%20j">
+<!--<img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=hovelopin&theme=tokyonight&date_format=%5BY%20%5DM%20j">
 </div>
+-->
+
+
+![hovelopin's github stats](https://github-readme-stats.vercel.app/api?username=hovelopin&show_icons=true&theme=merko)
